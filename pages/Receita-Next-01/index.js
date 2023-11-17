@@ -11,6 +11,9 @@ export default function Home() {
 
             </h2>
             <Poesia />
+            <div>
+                <a href="../"><button>voltar</button></a>
+            </div>
         </div>
 
     )

@@ -14,9 +14,7 @@ function Poesia() {
             por que os poetas passam os dias<br></br>
             escrevendo em seus cadernos de poesias.<br></br>
             Clarice Pacheco
-            <div>
-                <a href="../"><button>voltar</button></a>
-            </div>
+          
         </div>
     )
 }
