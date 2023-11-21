@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "next": "^14.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApenasUDev/unidade2Pweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ApenasUDev/unidade2Pweb/issues"
+  },
+  "homepage": "https://github.com/ApenasUDev/unidade2Pweb#readme"
 }
