@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^14.0.3"
+    "next": "^14.0.3",
+    "swr": "^2.2.4"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ApenasUDev/unidade2Pweb.git"
